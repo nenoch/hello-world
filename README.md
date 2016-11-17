@@ -1,2 +1,5 @@
-# hello-world
-First steps with github
+Hello everyone,
+
+I can't wait to master git and github to collaborate.
+
+Nenoch
